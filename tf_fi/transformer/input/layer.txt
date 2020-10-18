@@ -1,0 +1,6 @@
+Input tensor name:	encoder/num_blocks_4/positionwise_feedforward/dense_1/dense/Tensordot/Reshape
+Weight tensor name:	encoder/num_blocks_4/positionwise_feedforward/dense_1/dense/Tensordot/Reshape_1
+Output tensor name:	encoder/num_blocks_4/positionwise_feedforward/dense_1/dense/Tensordot/MatMul
+Input shape:	[11,2048]
+Weight shape:	[2048,512]
+Output shape:	[11,512]

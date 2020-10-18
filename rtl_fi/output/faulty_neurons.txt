@@ -1,0 +1,21 @@
+*********************************************
+Fault injection result:
+Number of different output neurons: 16
+Here are the mismatching neurons:
+Index: 14256, golden value: c44b, faulty value: c447
+Index: 14257, golden value: 3c07, faulty value: 3c1b
+Index: 14258, golden value: bd03, faulty value: bd09
+Index: 14259, golden value: c064, faulty value: c081
+Index: 14260, golden value: c4b2, faulty value: c4b1
+Index: 14261, golden value: bf4c, faulty value: befc
+Index: 14262, golden value: c1b3, faulty value: c1ac
+Index: 14263, golden value: c439, faulty value: c438
+Index: 14264, golden value: bc3e, faulty value: bc46
+Index: 14265, golden value: 369a, faulty value: 36d5
+Index: 14266, golden value: b95b, faulty value: b978
+Index: 14267, golden value: c04e, faulty value: c054
+Index: 14268, golden value: 399f, faulty value: 39a2
+Index: 14269, golden value: c206, faulty value: c20b
+Index: 14270, golden value: c2f6, faulty value: c2ff
+Index: 14271, golden value: b32c, faulty value: b35c
+*********************************************

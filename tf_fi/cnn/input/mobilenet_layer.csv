@@ -1,0 +1,9 @@
+Input tensor name:	MobilenetV1/MobilenetV1/Relu_5
+Weight tensor name:	MobilenetV1/MobilenetV1/Conv2d_3_pointwise/weights_quant/FakeQuantWithMinMaxVars
+Output tensor name:	MobilenetV1/MobilenetV1/Conv2d_3_pointwise
+Input shape:	[1,56,56,128]
+Weight shape:	[1,1,128,128]
+Output shape:	[1,56,56,128]
+Layer stride:	1
+Layer padding:	SAME
+Quant min max:	[0,24.8]

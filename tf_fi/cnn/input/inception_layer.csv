@@ -1,0 +1,9 @@
+Input tensor name:	InceptionV1/InceptionV1/Conv2d_2c_3x3':'InceptionV1/InceptionV1/Relu_1
+Weight tensor name:	InceptionV1/InceptionV1/Conv2d_2c_3x3':'InceptionV1/Conv2d_2c_3x3/weights/read
+Output tensor name:	InceptionV1/InceptionV1/Conv2d_2c_3x3
+Input shape:	[1,56,56,64]
+Weight shape:	[3,3,64,192]
+Output shape:	[1,56,56,192]
+Layer stride:	1
+Layer padding:	SAME
+Quant min max:	[0,6]
